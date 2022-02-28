@@ -1,0 +1,6 @@
+D:\C#\Tugas\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.exe.config
+D:\C#\Tugas\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.exe
+D:\C#\Tugas\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.pdb
+D:\C#\Tugas\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.csprojResolveAssemblyReference.cache
+D:\C#\Tugas\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.exe
+D:\C#\Tugas\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.pdb

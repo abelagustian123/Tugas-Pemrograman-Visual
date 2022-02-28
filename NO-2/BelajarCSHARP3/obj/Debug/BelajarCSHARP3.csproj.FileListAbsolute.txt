@@ -1,0 +1,8 @@
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\bin\Debug\BelajarCSHARP3.exe.config
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\bin\Debug\BelajarCSHARP3.exe
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\bin\Debug\BelajarCSHARP3.pdb
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\obj\Debug\BelajarCSHARP3.csprojResolveAssemblyReference.cache
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\obj\Debug\BelajarCSHARP3.MainForm.resources
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\obj\Debug\BelajarCSHARP3.csproj.GenerateResource.Cache
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\obj\Debug\BelajarCSHARP3.exe
+D:\C#\Tugas\BelajarCSHARP3\BelajarCSHARP3\obj\Debug\BelajarCSHARP3.pdb
